@@ -4,8 +4,8 @@
 [![Firebase](https://img.shields.io/badge/firebase-auth-yellow.svg)](https://firebase.google.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**Hazırlayan:** Muhammed Furkan Aktaş
-**Öğrenci No:** [24010501063]
+**Hazırlayan:** Muhammed Furkan Aktaş  
+**Öğrenci No:** 24010501063  
 
 ## 1. Projenin Amacı ve Kısa Açıklaması
 Transfer Merkezi, Süper Lig takımlarındaki oyuncu transferlerini, resmi KAP bildirimlerini ve transfer dedikodularını tek bir platformda toplamayı hedefleyen güncel bir Android uygulamasıdır. Kullanıcıların bilgi kirliliğinden uzak, güvenilir transfer haberlerine ulaşmasını sağlarken, kayıtlı olmayan kullanıcılar için "Blurwall" (bulanıklık duvarı) gibi oyunlaştırılmış ve modern kayıt teşvik yöntemleri barındırır.
@@ -33,9 +33,8 @@ TransferMerkezi/
 ├── build.gradle               # Proje bağımlılıkları
 └── README.md                  # Proje dokümantasyonu
 
-
 ## 4. Kurulum Adımları
-1. Projeyi GitHub üzerinden bilgisayarınıza klonlayın: `git clone [GitHub-Repo-Linkin]`
+1. Projeyi GitHub üzerinden bilgisayarınıza klonlayın: `git clone https://github.com/furkannaktass1/Transfer-Merkezi.git`
 2. Android Studio'yu açarak **"Open"** veya **"Import Project"** seçeneğiyle indirdiğiniz klasörü seçin.
 3. Firebase entegrasyonu için oluşturduğunuz `google-services.json` dosyasını `app/` dizini içerisine yerleştirin.
 4. Gradle Sync işleminin bitmesini bekleyin.
@@ -46,10 +45,32 @@ TransferMerkezi/
 - Alt navigasyon barındaki **KAP** sekmesi üzerinden sadece resmi transfer bildirimleri filtrelenmiş olarak takip edilebilir.
 - Sağ üstteki ayarlar veya profil menüsünden uygulama teması (Karanlık/Aydınlık) değiştirilebilir.
 
-## 6. GitHub Proje Bağlantısı
-[https://github.com/furkannaktass1/Transfer-Merkezi]
+## 6. Ekran Görüntüleri
 
-## 7. Kaynakça
+Kullanıcı Girişi ve Kayıt İşlemleri
+| Giriş Ekranı | Kayıt Ol Ekranı |
+| :---: | :---: |
+| ![Giriş Ekranı](images/screenshot/Giriş%20Ekranı.png) | ![Kayıt Ol Ekranı](images/screenshot/Kayıt%20Ol%20Ekranı.png) |
+
+Ana Akış ve Haber Detayı
+| Ana Sayfa | Haber Detay Ekranı |
+| :---: | :---: |
+| ![Ana Sayfa](images/screenshot/Ana%20Sayfa.jpg) | ![Haber Detayı](images/screenshot/Haber%20Detay%20Ekranı.jpg) |
+
+Özelleştirme ve Profil Ayarları
+| Takım Seçim Ekranı | Profil Ekranı |
+| :---: | :---: |
+| ![Takım Seçimi](images/screenshot/Takım%20Seçim%20Ekranı.png) | ![Profil](images/screenshot/Profil%20Ekranı.png) |
+
+Favoriler
+| Favori Haberler |
+| :---: |
+| ![Favoriler](images/screenshot/Favori%20Haberler.png) |
+
+## 7. GitHub Proje Bağlantısı
+https://github.com/furkannaktass1/Transfer-Merkezi
+
+## 8. Kaynakça
 - Kamuyu Aydınlatma Platformu (KAP) Resmi Web Sitesi ve RSS Verileri
 - Android Developers Documentation (https://developer.android.com)
 - Firebase Documentation (https://firebase.google.com/docs)
