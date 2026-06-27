@@ -50,22 +50,22 @@ TransferMerkezi/
 Kullanıcı Girişi ve Kayıt İşlemleri
 | Giriş Ekranı | Kayıt Ol Ekranı |
 | :---: | :---: |
-| ![Giriş Ekranı](images/screenshot/Giriş%20Ekranı.png) | ![Kayıt Ol Ekranı](images/screenshot/Kayıt%20Ol%20Ekranı.png) |
+| ![Giriş Ekranı](https://github.com/furkannaktass1/Transfer-Merkezi/blob/main/Giri%C5%9F%20Ekran%C4%B1.png) | ![Kayıt Ol Ekranı](https://github.com/furkannaktass1/Transfer-Merkezi/blob/main/Kay%C4%B1t%20Ol%20Ekran%C4%B1.png) |
 
 Ana Akış ve Haber Detayı
 | Ana Sayfa | Haber Detay Ekranı |
 | :---: | :---: |
-| ![Ana Sayfa](images/screenshot/Ana%20Sayfa.jpg) | ![Haber Detayı](images/screenshot/Haber%20Detay%20Ekranı.jpg) |
+| ![Ana Sayfa](https://github.com/furkannaktass1/Transfer-Merkezi/blob/main/Ana%20Sayfa.png) | ![Haber Detayı](https://github.com/furkannaktass1/Transfer-Merkezi/blob/main/Haber%20Detay%20Ekran%C4%B1.png) |
 
 Özelleştirme ve Profil Ayarları
 | Takım Seçim Ekranı | Profil Ekranı |
 | :---: | :---: |
-| ![Takım Seçimi](images/screenshot/Takım%20Seçim%20Ekranı.png) | ![Profil](images/screenshot/Profil%20Ekranı.png) |
+| ![Takım Seçimi](https://github.com/furkannaktass1/Transfer-Merkezi/blob/main/Tak%C4%B1m%20Se%C3%A7im%20Ekran%C4%B1.png) | ![Profil](https://github.com/furkannaktass1/Transfer-Merkezi/blob/main/Profil%20Ekran%C4%B1.png) |
 
 Favoriler
 | Favori Haberler |
 | :---: |
-| ![Favoriler](images/screenshot/Favori%20Haberler.png) |
+| ![Favoriler](https://github.com/furkannaktass1/Transfer-Merkezi/blob/main/Favori%20Haberler.png) |
 
 ## 7. GitHub Proje Bağlantısı
 https://github.com/furkannaktass1/Transfer-Merkezi
